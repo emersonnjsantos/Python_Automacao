@@ -1,0 +1,23 @@
+.qodo
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos de dados sensíveis
+*.env
+*.log
+data/*
+!data/.gitkeep
+
+# Outros
+.DS_Store
