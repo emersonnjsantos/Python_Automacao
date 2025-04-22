@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Organizador de Arquivos
 
@@ -51,3 +52,6 @@ Se você tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para
 ## License
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+=======
+
+>>>>>>> 47d93a9d86045d9d8161d009f485e98e889f0436
