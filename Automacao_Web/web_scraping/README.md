@@ -97,8 +97,11 @@ Erros durante a extração serão registrados como: Erro ao extrair dados de um 
 ## 🧠 Estrutura do Código
 
 Configuração: Inicializa o ChromeDriver via webdriver-manager.
+
 Navegação: Acessa o Mercado Livre e rola a página dinamicamente.
+
 Extração: Usa seletores CSS (.ui-search-result, .ui-search-item__title, .price-tag-amount) para coletar dados.
+
 Finalização: Exibe os resultados e fecha o navegador.
 
 ## 🔧 Possíveis Melhorias
